@@ -44,7 +44,27 @@ Hand Written Digit Recognition using a Simple Neural Network.
 
 <h2>Fit the model using Training Samples</h2>
 <p>So, that we can check out model's perfomance on unseen </p>
+
 ![image](https://github.com/user-attachments/assets/04c72b01-f3a1-4789-80d5-fd59c7fa4dfb)
+
+<h2>Evaluating the Model.</h2>
+<p>Evaluating the model using training and testing data</p>
+
+![image](https://github.com/user-attachments/assets/26a23ad6-bdb5-4cf1-8a3e-046aad415210)
+
+<h2>Prediting using the Model</h2>
+<p>Predicting using the model and printing a sample data.</p>
+
+![image](https://github.com/user-attachments/assets/d7155b0a-3604-41b4-906a-2512fbd3f3b6)
+
+<h2>Plotting</h2>
+<p>Randomly Plotting several number of predicted data using Subplot and np.random</p>
+
+![image](https://github.com/user-attachments/assets/ff800e70-217c-4901-b520-87a53119d3c0)
+
+<h1>Conclusion.</h1>
+<p>Finally I have completed my basic project using Neural Networks in Deep Learning using keras library, This project gave me a basic idea how the Neural Network works. Stay tuned..Byee👋</p>
+
 
 
 
